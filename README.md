@@ -1,0 +1,1 @@
+FitJourney is a health and fitness Android mobile application that includes modules such as user profiles, recommended meal plans, mood logging, and workout tracking. It aligns with SDG 3 (Good Health and Well-being) to enhance users’ dietary management experience.
